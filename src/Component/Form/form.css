@@ -1,0 +1,17 @@
+form {
+  margin-top: 100px;
+}
+
+.submissionMessage {
+  color: green;
+}
+
+.btn-form {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.form-submit {
+  background-color: rgb(69, 156, 185);
+}
